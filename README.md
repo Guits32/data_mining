@@ -11,4 +11,4 @@ From my point of view:
 - First - make money
 - Two: help marketing
 
-![alt text](https://drive.google.com/file/d/1QME0Uvml6FkAJ_KZF4baPgZMOdre2sY4/view?usp=sharing)
+![Schema of data usage](https://github.com/Guits32/data_mining/blob/master/img/IoT_model.png)
